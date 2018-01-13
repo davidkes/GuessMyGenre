@@ -1,0 +1,8 @@
+Before using the program, following the Installation Guide.txt to install the some python packages needed to use this
+program.
+
+The program will operate off a graphic user interface. It will have 3 main entry fields: Song Title, Artist Name, and
+lyrics. The user will input the corresponding information that they would like the program to guess genre. Once the
+information is input into the entry field, The user will press submit and the program will output the predicted genre
+from the information about the song in the genre entry field. The user can press the "correct" or " incorrect" buttons
+so the output of genre will show the following respectively: "Yay, it's correct!" or "Sorry, it's incorrect."
